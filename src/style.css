@@ -1,0 +1,12 @@
+.toolbardemoBasicUsage md-toolbar md-icon.md-default-theme {
+	color: white; 
+}
+.carddemoBasicUsage .card-media {
+	background-color: #999999; 
+}
+.gridListdemoBasicUsage .gray {
+  background: #f5f5f5; 
+}
+.entering-login-form {
+	margin-top: 10%;
+}
